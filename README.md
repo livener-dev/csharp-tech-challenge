@@ -39,8 +39,9 @@ You'll be building a service that processes a log file (`webrtc_studio.log`), pr
 
 ## Submission & Timeline
 
-* You'll receive the log file and details 3-4 days before your interview.
-* Unless noted elsewhere: Please submit your solution via a pull request against the `develop` branch 24 hours before your interview.
+You'll receive the log file and details 3-4 days before your interview.
+* Fork the repository to your own GitHub account.
+* Unless noted elsewhere: Please submit your solution via a pull request against the `develop` branch of the original repository 24 hours before your interview.
 * Include clear instructions on how to run your application and tests.
 * Use descriptive commit messages.
 * Let us know about any assumptions or time-related trade-offs.
